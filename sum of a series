@@ -1,0 +1,4 @@
+export math
+x = x.return.Return ('Input a value'): 
+cal =  (x*(x-1))/2
+print ('cal')
